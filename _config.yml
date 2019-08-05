@@ -22,7 +22,7 @@ instagram_username:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/avataaars.png
 about_content: | # this will include new lines to allow paragraphs
   I love to design, implement and optimise interesting algorithms for various scenarios including mobile devices, self-driving cars and smart factory. 
 
