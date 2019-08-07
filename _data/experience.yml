@@ -7,3 +7,13 @@
    Empower multiple working sections by providing machine learning solutions. 
   description: | # this will include new lines to allow paragraphs
     OnePlus Technology Co., Ltd., commonly referred to as OnePlus, is a Chinese smartphone manufacturer based in Shenzhen, Guangdong. It was founded by Pete Lau and Carl Pei in December 2013. The company officially serves 34 countries and regions around the world as of July 2018. 
+    
+- layout: left
+  company: Bitmain Technologies Ltd.
+  link: www.bitmain.com
+  job_title: Senior Deep Learning Engineer
+  dates: September 2018 till January 2019
+  quote: >
+   Lead teams to provide pedestrian detection and multiple object tracking solutions 
+  description: | # this will include new lines to allow paragraphs
+    Bitmain Technologies Ltd., or Bitmain, is a privately owned company headquartered in Beijing, China that designs application-specific integrated circuit chips for bitcoin mining. 
