@@ -1,6 +1,6 @@
 - layout: top-middle
   name: Defect Classification Tutorial
-  link: github.com/kazenokizi/defect_classification
+#  link: github.com/kazenokizi/defect_classification
   github: kazenokizi/defect_classification
   quote: >
     A simple, binary classification using Xception model which was pretrained and of which the weights file can be fetched from Keras
@@ -8,7 +8,7 @@
 
 - layout: top-middle
   name: Image Classification using TensorFlow Estimator API with Keras models
-  link: github.com/kazenokizi/tf_estimator_tutorial
+# link: github.com/kazenokizi/tf_estimator_tutorial
   github: kazenokizi/tf_estimator_tutorial
   quote: >
     A multi-class classification using a simple model, defined by Keras, on CIFAR-10 dataset, using TensorFlow Estimator API. This tutorial is planned to be a plug-and-play suite, yet still in the early phase. 
