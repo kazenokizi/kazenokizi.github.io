@@ -17,3 +17,15 @@
    Lead teams to provide pedestrian detection and multiple object tracking solutions 
   description: | # this will include new lines to allow paragraphs
     Bitmain Technologies Ltd., or Bitmain, is a privately owned company headquartered in Beijing, China that designs application-specific integrated circuit chips for bitcoin mining. 
+    
+- layout: left
+  company: Imperial College London, Syngenta AG
+  link: www.imperial.ac.uk www.syngenta.com
+  job_title: EU Marie-Curie research fellow
+  dates: October 2014 till September 2017
+  quote: >
+   Provide mathematical solutions for agrochemical studies, allergenicity studies, and drug design  
+  description: | # this will include new lines to allow paragraphs
+    Sprawling university, founded in 1901, specialising in science, medicine, engineering and business.
+    
+    Syngenta AG is a global company that produces agrochemicals and seeds and is based in Basel, Switzerland. As a biotechnology company, it conducts genomic research. It was formed in 2000 by the merger of Novartis Agribusiness and Zeneca Agrochemicals. 
