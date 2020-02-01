@@ -24,9 +24,7 @@ instagram_username:
 # about_title: About Me
 about_profile_image: images/avataaars.png
 about_content: | # this will include new lines to allow paragraphs
-  I love to design, implement and optimise interesting algorithms for various scenarios including mobile devices, self-driving cars and smart factory. 
-
-  I am most skilled in: <mark>Unsupervised machine learning</mark> and <mark>cooking</mark>
+  I work on scenarios including mobile devices. 
 
 # Projects Section
 # projects_title: Projects
@@ -40,7 +38,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+  Some of my other interests and hobbies are:
    - Travel
    - Jogging
    - Reading
