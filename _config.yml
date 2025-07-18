@@ -4,9 +4,9 @@ repository: sproogen/resume-theme
 
 # Personal info
 name: Andrew Zhang
-title: Senior AI Algorithm Engineer
+title: AI Algorithm Engineer
 email: kazenokizi@gmail.com
-website: www.github.com/kazenokizi
+website: github.com/kazenokizi
 
 # Social links
 twitter_username: kazenokizi
@@ -14,15 +14,15 @@ github_username:  kazenokizi
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: 
-# linkedin_username: jameswgrant
+# instagram_username: 
+linkedin_username: jameswgrant
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
-about_profile_image: images/avataaars.png
+about_profile_image: images/heng_20250131_renminpark_chengdu.jpg
 about_content: | # this will include new lines to allow paragraphs
   I work on scenarios including mobile devices. 
 
