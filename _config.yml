@@ -3,8 +3,8 @@ repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
-name: Andrew Zhang
-title: AI Algorithm Engineer
+name: Heng Zhang (Andrew)
+title: Staff AI Algorithm Engineer
 email: kazenokizi@gmail.com
 website: github.com/kazenokizi
 
@@ -15,7 +15,7 @@ github_username:  kazenokizi
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: 
-linkedin_username: jameswgrant
+linkedin_username: in/heng-z-63894927
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
@@ -24,7 +24,9 @@ linkedin_username: jameswgrant
 # about_title: About Me
 about_profile_image: images/heng_20250131_renminpark_chengdu.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I work on scenarios including mobile devices. 
+  I am currently a staff AI Algorithm engineer at Xring, a chip design company owned by Xiaomi. 
+  I lead projects in the field of ISP (Image Signal Processing) and AI, focusing on enhancing image quality and performance in mobile devices.
+  I also run as a key moderator for external collaborations, and patent management, ensuring that our innovations are protected and leveraged effectively.
 
 # Projects Section
 # projects_title: Projects

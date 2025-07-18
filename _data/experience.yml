@@ -1,8 +1,18 @@
 - layout: left
-  company: OnePlus Technology Co., Ltd.
-  link: www.oneplus.com
+  company: Xring (Xiaomi)
+  link: www.xiaomi.com
   job_title: Senior AI Algorithm Engineer
-  dates: March 2019 till present
+  dates: Nov. 2021 - Present
+  quote: >
+    Lead projects in the field of ISP (Image Signal Processing) and AI, focusing on enhancing image quality and performance in mobile devices. 
+  description: | # this will include new lines to allow paragraphs
+    Xring is a chip design company owned by Xiaomi, specializing in advanced semiconductor solutions. 
+
+- layout: left
+  company: OnePlus Technology Co., Ltd. + OPPO Electronics Corp.
+  link: www.oneplus.com / www.oppo.com
+  job_title: Senior AI Algorithm Engineer
+  dates: Mar. 2019 - Nov. 2021
   quote: >
    Empower multiple working sections by providing machine learning solutions. 
   description: | # this will include new lines to allow paragraphs
